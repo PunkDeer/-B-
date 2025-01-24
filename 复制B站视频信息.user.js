@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         复制B站视频信息
 // @namespace    https://bilibili.com/
-// @version      2.0
+// @version      2.1
 // @description  在Bilibili视频页面添加按钮，用于复制UP主昵称、播放量、点赞、投币、收藏、分享、评论数和视频URL
 // @author       Punk Deer
 // @match        https://www.bilibili.com/video/*
